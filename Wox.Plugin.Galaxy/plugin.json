@@ -1,0 +1,12 @@
+{
+    "ID":"4ebd020883285d698c44ec50939c0967",
+    "ActionKeyword":"*",
+    "Name":"Galaxy",
+    "Description":"Allows launching installed games through GOG Galaxy 2.0",
+    "Author":"Thorou",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"thorou.tk",
+    "IcoPath":"Images\\default_lowres.png",
+    "ExecuteFileName":"Wox.Plugin.Galaxy.exe"
+}
