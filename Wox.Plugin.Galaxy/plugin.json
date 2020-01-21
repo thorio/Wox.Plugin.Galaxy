@@ -8,5 +8,5 @@
     "Language":"csharp",
     "Website":"thorou.tk",
     "IcoPath":"Images\\default_lowres.png",
-    "ExecuteFileName":"Wox.Plugin.Galaxy.exe"
+    "ExecuteFileName":"Wox.Plugin.Galaxy.dll"
 }

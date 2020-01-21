@@ -100,7 +100,7 @@
     <PostBuildEvent>::kill wox if present
 start /wait taskkill -f -im wox.exe
 ::copy plugin to wox
-xcopy "$(TargetDir)*.*" "C:\Users\Thorou\AppData\Roaming\Wox\Plugins\Galaxy-98efc105-d2bb-4f25-bebe-92b99479f87c\" /i /s /e /y /q
+xcopy "$(TargetDir)*.*" "C:\Users\Thorou\AppData\Roaming\Wox\Plugins\Galaxy\" /i /s /e /y /q
 ::start wox
 start "" "C:\Users\Thorou\AppData\Local\Wox\Wox.exe"</PostBuildEvent>
   </PropertyGroup>
